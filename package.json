@@ -1,6 +1,7 @@
 {
-  "name": "oembed-api",
+  "name": "embed",
   "version": "1.0.0",
+  "license":"MIT",
   "dependencies": {
     "body-parser": "^1.12.3",
     "cors": "~2.4.2",
